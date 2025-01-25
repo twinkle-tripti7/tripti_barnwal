@@ -1,9 +1,9 @@
 # tripti_barnwal
  
 <h1 align="center">Hi there! 👋 I'm Tripti Barnwal</h1>
-<h3 align="center">Competitive Coder, 🎓 Aspiring Data Scientist currently pursuing a Bachelor of Technology in Computer Science and Engineering at C.V. Raman Global University.🤖 Passionate about Machine Learning, Data Visualization, and Creative Writing.</h3>
-<h3 align="center"> 🎓 Aspiring Data Scientist currently pursuing a Bachelor of Technology in Computer Science and Engineering at C.V. Raman Global University.</h3>
-<h3 align="center">🤖 Passionate about Machine Learning, Data Visualization, and Creative Writing.</h3>
+<h3 align="left">Competitive Coder.</h3>
+<h3 align="left"> 🎓 Aspiring Data Scientist currently pursuing a Bachelor of Technology in Computer Science and Engineering at C.V. Raman Global University.</h3>
+<h3 align="left">🤖 Passionate about Machine Learning, Data Visualization, and Creative Writing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twinkle-tripti7&label=Profile%20views&color=0e75b6&style=flat" alt="twinkle-tripti7" /> </p>
 
