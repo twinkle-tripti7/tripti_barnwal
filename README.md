@@ -1,8 +1,7 @@
 # tripti_barnwal
-My personal repository
-
-<h1 align="center">Hi 👋, I'm Tripti Barnwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+Welcome !! 
+<h1 align="center">Hi there! 👋 I'm Tripti Barnwall</h1>
+<h3 align="center">Competitive Coder, 🎓 Aspiring Data Scientist currently pursuing a Bachelor of Technology in Computer Science and Engineering at C.V. Raman Global University.🤖 Passionate about Machine Learning, Data Visualization, and Creative Writing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twinkle-tripti7&label=Profile%20views&color=0e75b6&style=flat" alt="twinkle-tripti7" /> </p>
 
@@ -16,6 +15,7 @@ My personal repository
 <a href="https://instagram.com/tripti_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tripti_07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tipu_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tipu_07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tipu_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tipu_07" height="30" width="40" /></a>
+  <a href="https://portfolio-pearl-nine-89.vercel.app/#skills" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
